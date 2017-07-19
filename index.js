@@ -39,7 +39,7 @@ module.exports = function(context, options){
             require("babel-plugin-syntax-async-functions"),
             require("babel-plugin-transform-async-to-generator"),
             require("babel-plugin-transform-class-properties"),
-            require("babel-plugin-transform-decorators-legacy"),
+            require("babel-plugin-transform-decorators-legacy").default,
             require("babel-plugin-transform-es2015-modules-commonjs"),
             require("babel-plugin-transform-export-extensions"),
             require("babel-plugin-transform-function-bind"),
