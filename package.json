@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-new",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "author": "lizheng11@meituan.com",
   "description": "针对高版本浏览器，尽量少使用babel",
   "license": "ISC",
